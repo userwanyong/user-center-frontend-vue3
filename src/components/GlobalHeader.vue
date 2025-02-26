@@ -5,7 +5,7 @@
         <div class="title-bar">
           <img class="logo" src="~@/assets/logo.png" alt="logo" />
           <div class="title">用户中心</div>
-        </div>
+        </div> 
       </a-col>
       <a-col flex="auto">
         <a-menu
