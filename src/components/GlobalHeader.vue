@@ -7,7 +7,7 @@
           <div class="title">用户中心</div>
         </div>
       </a-col>
-      <a-col flex="auto">
+      <a-col flex="auto"> 
         <a-menu
           v-model:selectedKeys="current"
           mode="horizontal"
